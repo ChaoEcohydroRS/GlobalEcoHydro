@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chao Wang / Site Title"
+title                    : "Chao Wang"
 title_separator          : "-"
 name                     : &name "Chao Wang"
 description              : &description "Chao Wang's personal website"
