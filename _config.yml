@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chao Wang"
   avatar           : "profile.png"
-  bio              : "Assistant Research Professor at the University of North Carolina/Chapel Hill for Ecohydrology."
-  location         : "CHapel Hill, NC"
+  bio              : "Research Assistant Professor at the University of North Carolina/Chapel Hill for Ecohydrology."
+  location         : "Chapel Hill, NC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Q0IKlZwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Chao-Wang-216"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ChaoEcohydroRS"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "waynechao128"
+  orcid            : "https://orcid.org/0000-0001-5170-1710"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "waynechao128"
   vine             :
   weibo            :
   xing             :
